@@ -1,4 +1,4 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for custom serialization and deserialization in kafka. It is a sample application to show the usecase of that.
 
 Template license
 ----------------
