@@ -4,7 +4,9 @@ A [Giter8][g8] template for custom serialization and deserialization in kafka. I
 If you do not have kafka in your system. Download it from [here](https://www.apache.org/dyn/closer.cgi?path=/kafka/1.1.0/kafka_2.11-1.1.0.tgz)
 
 **1) Extract the folder**
+
 ```tar -xzf kafka_2.11-1.1.0.tgz```
+
 ```cd kafka_2.11-1.1.0 ```
 
 **2) Start the Zookeeper**
